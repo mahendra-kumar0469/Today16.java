@@ -1,0 +1,7 @@
+public class central
+{
+public void main (String []args)
+{
+system.out.println("mahitask")
+}
+}
